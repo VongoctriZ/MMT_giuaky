@@ -7,7 +7,7 @@ import java.util.Vector;
 public class AppTableModel extends AbstractTableModel
 {
 
-    private final String[] COLUMNS = {"APPLICATION", "PID"};
+    private final String[] COLUMNS = {"APPLICATION NAME", "PID"};
 
     private final List <String[]> maindata;
 
