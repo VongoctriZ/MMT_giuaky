@@ -1,4 +1,4 @@
 # MMT_giuaky
 
-#IDE: Intellij
+IDE: Intellij
   
