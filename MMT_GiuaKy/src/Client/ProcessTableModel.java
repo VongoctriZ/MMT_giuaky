@@ -7,7 +7,7 @@ import java.util.Vector;
 public class ProcessTableModel extends AbstractTableModel
 {
 
-    private final String[] COLUMNS = {"PROCESS", "PID", "Col3", "Col4", "Col5"};
+    private final String[] COLUMNS = {"PROCESS NAME", "PID", "SESSION NAME", "SESSION #", "MEMORY USAGE"};
 
     private final List <String[]> maindata;
 
